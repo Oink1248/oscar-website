@@ -28,6 +28,7 @@ people:
 
     - name: Veronika Körber
       affiliation: Uni Tübingen
+      GitHub username: Oink1248
 
     - name: Stefan Lippert
       affiliation: Uni Siegen
