@@ -27,6 +27,7 @@ people:
       affiliation: RPTU Kaiserslautern-Landau
 
     - name: Veronika Körber
+        github: Oink1248
       affiliation: Uni Tübingen
 
     - name: Stefan Lippert
@@ -58,7 +59,6 @@ people:
 
     - name: Aaruni Kaushik
       affiliation: RPTU Kaiserslautern-Landau
-      github: aaruni96
 
     - name: Hannah Wagmann
       affiliation: Saarland University
